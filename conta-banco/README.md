@@ -34,7 +34,7 @@ Criar um programa Java que utilizando os recursos de interface do terminal, soli
 | numeroConta   | int             |
 | agencia       | String          |
 | nomeCliente   | String          |
-| saldo         | double          |
+| saldo         | float           |
 
 ## Resposta para o usuário
 
