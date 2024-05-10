@@ -18,7 +18,7 @@ Criar um programa Java que utilizando os recursos de interface do terminal, soli
 - `conta-banco`: nome do projeto, nome do diretório do projeto
 - `ContaTerminal`: nome da classe principal
 
-4. Seguir as regras de 'atributos', 'tipos' e exemplo sugeridos:
+3. Seguir as regras de 'atributos', 'tipos' e exemplo sugeridos:
 
 | Atributo      | Tipo    | Exemplo       |
 |-------------- |-------- |-------------- |
@@ -27,7 +27,7 @@ Criar um programa Java que utilizando os recursos de interface do terminal, soli
 | Nome Cliente  | Texto   | MARIO ANDRADE |
 | Saldo         | Decimal | 237.48        |
 
-5. Como criei os atributos e declarei os tipos:
+4. Como criei os atributos e declarei os tipos:
 
 | Nome que usei | Tipo declarado  |
 |-------------- |-----------------|
